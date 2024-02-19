@@ -1,6 +1,4 @@
-# M03 | W06
-
-## Web Servers 101
+# W03D01 | Web Servers 101
 
 ## Topics to cover
 
